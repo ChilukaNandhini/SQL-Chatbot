@@ -1,0 +1,17 @@
+# Smart SQL Assistant
+
+An AI-powered app that converts English questions into SQL, executes them in MySQL, and shows results in a table.
+
+## Features
+- Ask database questions in English
+- Auto-generate optimized SQL using Gemini AI
+- Secure MySQL execution
+- View results in tabular format
+
+## Tech Stack
+Streamlit, LangChain, MySQL, Google Gemini, PyMySQL, Pandas
+
+## Setup
+1. Create `key.env` with:
+2. Install dependencies:
+3. Run the app:
